@@ -26,7 +26,6 @@ let package = Package(
         .process("TLPhotoPicker/Classes/TLPhotoCollectionViewCell.xib"),
         .process("TLPhotoPicker/Classes/TLPhotosPickerViewController.xib"),
         .process("TLPhotoPicker/Assets.xcassets"),
-        .process("TLPhotoPicker/TLPhotoPickerController.bundle"),
       ]
     )
   ]
